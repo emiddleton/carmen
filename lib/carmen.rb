@@ -117,11 +117,18 @@ module Carmen
   # if none is provided.
   #   Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
   #   Carmen::states => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
-  def self.states(country_code = Carmen.default_country, options={})        
+  def self.states(country_code = Carmen.default_country, options={})
+    # should allow passing of locale in options
+    locale_country_code = "#{self.default_locale.upcase}_#{country_code}"
     raise NonexistentCountry.new("Country not found for code #{country_code}") unless country_codes.include?(country_code)
-    raise StatesNotSupported unless states?(country_code)
-
-    results = search_collection(@states, country_code, 0, 1)
+    results = []
+    # check for localized state names
+    if states?(locale_country_code) # check for localized state file.
+      results = search_collection(@states, locale_country_code, 0, 1)
+    else # use default locale for state files.
+      raise StatesNotSupported unless states?(country_code)
+      results = search_collection(@states, country_code, 0, 1)
+    end
 
     if excluded_states[country_code]
         results.reject { |s| excluded_states[country_code].include?(s[1]) }
