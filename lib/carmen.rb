@@ -118,8 +118,8 @@ module Carmen
   #   Carmen::states('US') => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
   #   Carmen::states => [['Alabama', 'AL'], ['Arkansas', 'AR'], ... ]
   def self.states(country_code = Carmen.default_country, options={})
-    # should allow passing of locale in options
-    locale_country_code = "#{self.default_locale.upcase}_#{country_code}"
+    locale = (options.delete(:locale) || @default_locale).to_s
+    locale_country_code = "#{locale.upcase}_#{country_code}"
     raise NonexistentCountry.new("Country not found for code #{country_code}") unless country_codes.include?(country_code)
     results = []
     # check for localized state names
