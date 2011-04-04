@@ -1,27 +1,26 @@
-# data was sourced from http://en.wikipedia.org/wiki/Netherlands
-# http://en.wikipedia.org/wiki/ISO_3166-2:NL
+# data collected for wikipedia entry for Netherlands
 ---
-- - 'Drenthe'
-  - 'NL-DR'
-- - 'Flevoland'
-  - 'NL-FL'
-- - 'Friesland'
-  - 'NL-FR'
-- - 'Gelderland'
-  - 'NL-GE'
-- - 'Groningen'
-  - 'NL-GR'
-- - 'Limburg'
-  - 'NL-LI'
-- - 'North Brabant'
-  - 'NL-NB'
-- - 'North Holland'
-  - 'NL-NH'
-- - 'Overijssel'
-  - 'NL-OV'
-- - 'Utrecht'
-  - 'NL-UT'
-- - 'Zeeland'
-  - 'NL-ZE'
-- - 'South Holland'
-  - 'NL-ZH'
+- - "Drenthe"
+  - "DR"
+- - "Flevoland"
+  - "FL"
+- - "Friesland"
+  - "FR"
+- - "Gelderland"
+  - "GE"
+- - "Groningen"
+  - "GR"
+- - "Limburg"
+  - "LI"
+- - "Noord-Brabant"
+  - "NB"
+- - "Noord-Holland"
+  - "NH"
+- - "Overijssel"
+  - "OV"
+- - "Utrecht"
+  - "UT"
+- - "Zeeland"
+  - "ZE"
+- - "Zuid-Holland"
+  - "ZH"
