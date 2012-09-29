@@ -1,491 +1,493 @@
 ---
-- - Afghanistan
+- - 阿富汗
   - AF
-- - Aland Islands
+- - 奧蘭群島
   - AX
-- - Albania
+- - 阿爾巴尼亞
   - AL
-- - Algeria
+- - 阿爾及利亞
   - DZ
-- - American Samoa
+- - 美屬薩摩亞
   - AS
-- - Andorra
+- - 安道爾
   - AD
-- - Angola
+- - 安哥拉
   - AO
-- - Anguilla
+- - 安圭拉
   - AI
-- - Antarctica
+- - 南極洲
   - AQ
-- - Antigua and Barbuda
+- - 安提瓜和巴布達
   - AG
-- - Argentina
+- - 阿根廷
   - AR
-- - Armenia
+- - 亞美尼亞
   - AM
-- - Aruba
+- - 阿魯巴
   - AW
-- - Australia
+- - 澳大利亞
   - AU
-- - Austria
+- - 奧地利
   - AT
-- - Azerbaijan
+- - 阿塞拜疆
   - AZ
-- - Bahamas
+- - 巴哈馬
   - BS
-- - Bahrain
+- - 巴林
   - BH
-- - Bangladesh
+- - 孟加拉
   - BD
-- - Barbados
+- - 巴巴多斯
   - BB
-- - Belarus
+- - 白俄羅斯
   - BY
-- - Belgium
+- - 比利時
   - BE
-- - Belize
+- - 伯利茲
   - BZ
-- - Benin
+- - 貝寧 
   - BJ
-- - Bermuda
+- - 百慕大
   - BM
-- - Bhutan
+- - 不丹
   - BT
-- - Bolivia
+- - 玻利維亞
   - BO
-- - Bosnia and Herzegovina
+- - 波黑
   - BA
-- - Botswana
+- - 博茨瓦納
   - BW
-- - Bouvet Island
+- - 布維島
   - BV
-- - Brazil
+- - 巴西
   - BR
-- - British Indian Ocean Territory
+- - 英屬印度洋
   - IO
-- - Brunei Darussalam
+- - 文萊
   - BN
-- - Bulgaria
+- - 保加利亞 
   - BG
-- - Burkina Faso
+- - 布基納法索  
   - BF
-- - Burundi
+- - 布隆迪  
   - BI
-- - Cambodia
+- - 柬埔寨 
   - KH
-- - Cameroon
+- - 喀麥隆
   - CM
-- - Canada
+- - 加拿大
   - CA
-- - Cape Verde
+- - 佛得角
   - CV
-- - Cayman Islands
+- - 開曼群島
   - KY
-- - Central African Republic
+- - 中非
   - CF
-- - Chad
+- - 乍得
   - TD
-- - Chile
+- - 智利
   - CL
-- - China
+- - 中國 
   - CN
-- - Christmas Island
+- - 聖誕島 
   - CX
-- - Cocos (Keeling) Islands
+- - 科科斯（基林）群島
   - CC
-- - Colombia
+- - 哥倫比亞 
   - CO
-- - Comoros
+- - 科摩羅
   - KM
-- - Congo
+- - 剛果（布）
   - CG
-- - Congo, the Democratic Republic of the
+- - 剛果（金） 
   - CD
-- - Cook Islands
+- - 庫克群島  
   - CK
-- - Costa Rica
+- - 哥斯達黎加
   - CR
-- - Cote D'ivoire
+- - 科特迪瓦
   - CI
-- - Croatia
+- - 克羅地亞
   - HR
-- - Cuba
+- - 古巴 
   - CU
-- - Cyprus
+- - 塞浦路斯
   - CY
-- - Czech Republic
+- - 捷克
   - CZ
-- - Denmark
+- - 丹麥
   - DK
-- - Djibouti
+- - 吉布提 
   - DJ
-- - Dominica
+- - 多米尼克
   - DM
-- - Dominican Republic
+- - 多米尼加 
   - DO
-- - Ecuador
+- - 厄瓜多爾 
   - EC
-- - Egypt
+- - 埃及 
   - EG
-- - El Salvador
+- - 薩爾瓦多 
   - SV
-- - Equatorial Guinea
+- - 赤道幾內亞  
   - GQ
-- - Eritrea
+- - 厄立特裡亞  
   - ER
-- - Estonia
+- - 愛沙尼亞 
   - EE
-- - Ethiopia
+- - 埃塞俄比亞  
   - ET
-- - Falkland Islands (Malvinas)
+- - 福克蘭群島（馬爾維納斯）  
   - FK
-- - Faroe Islands
+- - 法羅群島  
   - FO
-- - Fiji
+- - 斐濟
   - FJ
-- - Finland
+- - 芬蘭 
   - FI
-- - France
+- - 法國  
   - FR
-- - French Guiana
+- - 法屬圭亞那 
   - GF
-- - French Polynesia
+- - 法屬波利尼西亞 
   - PF
-- - French Southern Territories
+- - 法國南部領土
   - TF
-- - Gabon
+- - 加蓬 
   - GA
-- - Gambia
+- - 岡比亞  
   - GM
-- - Georgia
+- - 格魯吉亞
   - GE
-- - Germany
+- - 德國  
   - DE
-- - Ghana
+- - 加納 
   - GH
-- - Gibraltar
+- - 直布羅陀  
   - GI
-- - Greece
+- - 希臘 
   - GR
-- - Greenland
+- - 格陵蘭 
   - GL
-- - Grenada
+- - 格林納達  
   - GD
-- - Guadeloupe
+- - 瓜德羅普
   - GP
-- - Guam
+- - 關島
   - GU
-- - Guatemala
+- - 危地馬拉 
   - GT
-- - Guernsey
+- - 根西島
   - GG
-- - Guinea
+- - 幾內亞 
   - GN
-- - Guinea-Bissau
+- - 幾內亞比紹  
   - GW
-- - Guyana
+- - 圭亞那  
   - GY
-- - Haiti
+- - 海地
   - HT
-- - Heard Island and Mcdonald Islands
+- - 赫德島和麥克唐納島
   - HM
-- - Holy See (Vatican City State)
+- - 梵蒂岡
   - VA
-- - Honduras
+- - 洪都拉斯 
   - HN
-- - Hong Kong
+- - 中國香港  
   - HK
-- - Hungary
+- - 匈牙利  
   - HU
-- - Iceland
+- - 冰島 
   - IS
-- - India
+- - 印度 
   - IN
-- - Indonesia
+- - 印度尼西亞  
   - ID
-- - Iran, Islamic Republic of
+- - 伊朗  
   - IR
-- - Iraq
+- - 伊拉克  
   - IQ
-- - Ireland
+- - 愛爾蘭
   - IE
-- - Isle of Man
+- - 馬恩島
   - IM
-- - Israel
+- - 以色列  
   - IL
-- - Italy
+- - 意大利  
   - IT
-- - Jamaica
+- - 牙買加
   - JM
-- - Japan
+- - 日本 
   - JP
-- - Jersey
+- - 澤西島 
   - JE
-- - Jordan
+- - 約旦 
   - JO
-- - Kazakhstan
+- - 哈薩克斯坦  
   - KZ
-- - Kenya
+- - 肯尼亞  
   - KE
-- - Kiribati
+- - 基裡巴斯 
   - KI
-- - Korea, Democratic People's Republic of
+- - 朝鮮
   - KP
-- - Korea, Republic of
+- - 韓國
   - KR
-- - Kosovo
+- - 科索沃  
   - KV
-- - Kuwait
+- - 科威特  
   - KW
-- - Kyrgyzstan
+- - 吉爾吉斯 
   - KG
-- - Lao People's Democratic Republic
+- - 老撾
   - LA
-- - Latvia
+- - 拉脫維亞
   - LV
-- - Lebanon
+- - 黎巴嫩  
   - LB
-- - Lesotho
+- - 萊索托 
   - LS
-- - Liberia
+- - 利比裡亞 
   - LR
-- - Libyan Arab Jamahiriya
+- - 利比亞 
   - LY
-- - Liechtenstein
+- - 列支敦士登 
   - LI
-- - Lithuania
+- - 立陶宛  
   - LT
-- - Luxembourg
+- - 盧森堡  
   - LU
-- - Macao
+- - 中國澳門  
   - MO
-- - Macedonia, the Former Yugoslav Republic of
+- - 馬其頓  
   - MK
-- - Madagascar
+- - 馬達加斯加  
   - MG
-- - Malawi
+- - 馬拉維
   - MW
-- - Malaysia
+- - 馬來西亞  
   - MY
-- - Maldives
+- - 馬爾代夫 
   - MV
-- - Mali
+- - 馬裡 
   - ML
-- - Malta
+- - 馬耳他  
   - MT
-- - Marshall Islands
+- - 馬紹爾群島  
   - MH
-- - Martinique
+- - 馬提尼克
   - MQ
-- - Mauritania
+- - 毛裡塔尼亞 
   - MR
-- - Mauritius
+- - 毛裡求斯 
   - MU
-- - Mayotte
+- - 馬約特 
   - YT
-- - Mexico
+- - 墨西哥  
   - MX
-- - Micronesia, Federated States of
+- - 密克羅尼西亞聯邦  
   - FM
-- - Moldova, Republic of
+- - 摩爾多瓦
   - MD
-- - Monaco
+- - 摩納哥 
   - MC
-- - Mongolia
+- - 蒙古 
   - MN
-- - Montenegro
+- - 黑山 
   - ME
-- - Montserrat
+- - 蒙特塞拉特 
   - MS
-- - Morocco
+- - 摩洛哥 
   - MA
-- - Mozambique
+- - 莫桑比克 
   - MZ
-- - Myanmar
+- - 緬甸 
   - MM
-- - Namibia
+- - 納米比亞 
   - NA
-- - Nauru
+- - 瑙魯 
   - NR
-- - Nepal
+- - 尼泊爾  
   - NP
-- - Netherlands
+- - 荷蘭  
   - NL
-- - Netherlands Antilles
+- - 荷屬安的列斯  
   - AN
-- - New Caledonia
+- - 新喀裡多尼亞  
   - NC
-- - New Zealand
+- - 新西蘭 
   - NZ
-- - Nicaragua
+- - 尼加拉瓜 
   - NI
-- - Niger
+- - 尼日爾  
   - NE
-- - Nigeria
+- - 尼日利亞 
   - NG
-- - Niue
+- - 紐埃  
   - NU
-- - Norfolk Island
+- - 諾福克島  
   - NF
-- - Northern Mariana Islands
+- - 北馬裡亞納  
   - MP
-- - Norway
-  - 'NO'
-- - Oman
+- - 挪威  
+  - NO
+- - 阿曼 
   - OM
-- - Pakistan
+- - 巴基斯坦 
   - PK
-- - Palau
+- - 帕勞 
   - PW
-- - Palestinian Territory, Occupied
+- - 巴勒斯坦
   - PS
-- - Panama
+- - 巴拿馬  
   - PA
-- - Papua New Guinea
+- - 巴布亞新幾內亞  
   - PG
-- - Paraguay
+- - 巴拉圭  
   - PY
-- - Peru
+- - 秘魯  
   - PE
-- - Philippines
+- - 菲律賓  
   - PH
-- - Pitcairn
+- - 皮特開恩群島  
   - PN
-- - Poland
+- - 波蘭 
   - PL
-- - Portugal
+- - 葡萄牙  
   - PT
-- - Puerto Rico
+- - 波多黎各 
   - PR
-- - Qatar
+- - 卡塔爾 
   - QA
-- - Reunion
+- - 留尼汪 
   - RE
-- - Romania
+- - 羅馬尼亞  
   - RO
-- - Russian Federation
+- - 俄羅斯 
   - RU
-- - Rwanda
+- - 盧旺達  
   - RW
-- - Saint Helena
+- - 聖赫勒拿
   - SH
-- - Saint Kitts and Nevis
+- - 聖基茨和尼維斯
   - KN
-- - Saint Lucia
+- - 聖盧西亞  
   - LC
-- - Saint Pierre and Miquelon
+- - 聖皮埃爾和密克隆  
   - PM
-- - Saint Vincent and the Grenadines
+- - 聖文森特和格林納丁斯
   - VC
-- - Samoa
+- - 薩摩亞  
   - WS
-- - San Marino
+- - 聖馬力諾
   - SM
-- - Sao Tome and Principe
+- - 聖多美和普林西比 
   - ST
-- - Saudi Arabia
+- - 沙特阿拉伯 
   - SA
-- - Senegal
+- - 塞內加爾
   - SN
-- - Serbia
+- - 塞爾維亞 
   - RS
-- - Seychelles
+- - 塞舌爾  
   - SC
-- - Sierra Leone
+- - 塞拉利昂 
   - SL
-- - Singapore
+- - 新加坡  
   - SG
-- - Slovakia
+- - 斯洛伐克 
   - SK
-- - Slovenia
+- - 斯洛文尼亞  
   - SI
-- - Solomon Islands
+- - 所羅門群島 
   - SB
-- - Somalia
+- - 索馬裡  
   - SO
-- - South Africa
+- - 南非 
   - ZA
-- - South Georgia and the South Sandwich Islands
+- - 南喬治亞島和南桑得韋奇島
   - GS
-- - Spain
+- - 西班牙 
   - ES
-- - Sri Lanka
+- - 斯裡蘭卡 
   - LK
-- - Sudan
+- - 蘇丹 
   - SD
-- - Suriname
+- - 蘇裡南  
   - SR
-- - Svalbard and Jan Mayen
+- - 斯瓦爾巴群島  
   - SJ
-- - Swaziland
+- - 斯威士蘭  
   - SZ
-- - Sweden
+- - 瑞典  
   - SE
-- - Switzerland
+- - 瑞士  
   - CH
-- - Syrian Arab Republic
+- - 敘利亞 
   - SY
-- - Taiwan, Province of China
+- - 台灣  
   - TW
-- - Tajikistan
+- - 塔吉克斯坦  
   - TJ
-- - Tanzania, United Republic of
+- - 坦桑尼亞 
   - TZ
-- - Thailand
+- - 泰國 
   - TH
-- - Timor-Leste
+- - 東帝汶  
   - TL
-- - Togo
+- - 多哥 
   - TG
-- - Tokelau
+- - 托克勞 
   - TK
-- - Tonga
+- - 湯加  
   - TO
-- - Trinidad and Tobago
+- - 特立尼達和多巴哥 
   - TT
-- - Tunisia
+- - 突尼斯  
   - TN
-- - Turkey
+- - 土耳其  
   - TR
-- - Turkmenistan
+- - 土庫曼斯坦 
   - TM
-- - Turks and Caicos Islands
+- - 特克斯與凱科斯群島 
   - TC
-- - Tuvalu
+- - 圖瓦盧 
   - TV
-- - Uganda
+- - 烏乾達  
   - UG
-- - Ukraine
+- - 烏克蘭
   - UA
-- - United Arab Emirates
+- - 阿聯酋  
   - AE
-- - United Kingdom
+- - 英國 
   - GB
-- - United States
+- - 美國  
   - US
-- - United States Minor Outlying Islands
+- - 美國本土外島嶼
   - UM
-- - Uruguay
+- - 烏拉圭  
   - UY
-- - Uzbekistan
+- - 烏茲別克斯坦 
   - UZ
-- - Vanuatu
+- - 瓦努阿圖 
   - VU
-- - Venezuela
+- - 委內瑞拉 
   - VE
-- - Viet Nam
+- - 越南
   - VN
-- - Virgin Islands, British
+- - 英屬維京群島  
   - VG
-- - Virgin Islands, U.S.
+- - 美屬維京群島  
   - VI
-- - Wallis and Futuna
+- - 瓦利斯和富圖納 
   - WF
-- - Western Sahara
+- - 西撒哈拉 
   - EH
-- - Yemen
+- - 也門 
   - YE
-- - Zambia
+- - 南斯拉夫 
+  - YU
+- - 贊比亞  
   - ZM
-- - Zimbabwe
+- - 津巴布韋
   - ZW
