@@ -22,7 +22,7 @@ module ActionView
       # have it marked as the selected option tag. You can also supply a list of country codes as additional parameters, so
       # that they will be listed above the rest of the (long) list.
       def country_options_for_select(selected = nil, *priority_country_codes)
-        country_options = ""
+        country_options = "".html_safe
 
         unless priority_country_codes.empty?
           priority_countries = Carmen::countries.select do |pair| name, code = pair
@@ -30,7 +30,7 @@ module ActionView
           end
           unless priority_countries.empty?
             country_options += options_for_select(priority_countries, selected)
-            country_options += "\n<option value=\"\" disabled=\"disabled\">-------------</option>\n"
+            country_options += "\n<option value=\"\" disabled=\"disabled\">-------------</option>\n".html_safe
           end
         end
 
